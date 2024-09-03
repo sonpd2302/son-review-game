@@ -1,5 +1,5 @@
 ---
-title: My Talking Tom 2
+title: Space Survivor
 draft: false
 tags:
 ---
@@ -7,10 +7,10 @@ tags:
 
 # Thông tin
 
-- Nhà phát triển : [Outfit7 Limited](https://play.google.com/store/apps/dev?id=5630538819012062144)
-* Thể loại : Virtual Pet
-* Lượt tải : 500Tr+
-* Android : https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2
+- Nhà phát triển : [iStar Technology Investment Co Ltd](https://play.google.com/store/apps/developer?id=iStar+Technology+Investment+Co+Ltd)
+* Thể loại : 
+* Lượt tải : 10Tr+
+* Android : https://play.google.com/store/apps/details?id=com.scream.imposter.monster.survival
 ---
 
 # Phân tích
